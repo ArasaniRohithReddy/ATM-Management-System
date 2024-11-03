@@ -18,4 +18,9 @@ Make sure you have Java installed on your system before running the program.
 
 Feel free to explore and utilize the functionalities provided.
 
-> Note: This project is a semester assignment completed in Java during the academic year 2017-2018.
+> Note: This project is a semester assignment completed in Java.
+
+Fork the above project from '''https://github.com/ArasaniRohithReddy/ATM-Management-System.git'''
+#### "Suggestions and project Improvement are Invited"
+#### Arasani Rohith Reddy
+##### Project Contributor
